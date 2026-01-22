@@ -34,16 +34,17 @@ I am a passionate developer from Mexico 🇲🇽 focused on building robust **Ba
 
 ### 🚀 Featured Projects
 
-#### 📱 [EquilibrIA - Mental Health App with AI]
+#### 📱 [EquilibrIA - Mental Health App with AI](https://github.com/FerYepez/app_movil)
 *A mobile application to prevent burnout using Generative AI.*
 * **Tech:** Python, AWS Lambda, Google Gemini AI.
 * **Role:** Backend integration & AI logic.
+* **Repo:** [View Source Code](https://github.com/FerYepez/app_movil)
 
-#### 🏢 [Serverless QR Access Control]
+#### 🏢 [Serverless QR Access Control](https://github.com/GermanGGL/Control_AsistenciaQR_Dev)
 *Enterprise-grade access control system for residential areas.*
 * **Tech:** FastAPI, AWS Aurora, S3, Docker.
 * **Role:** Cloud Architecture & Database Design.
-
+* **Repo:** [View Source Code](https://github.com/GermanGGL/Control_AsistenciaQR_Dev)
 ---
 
 ### ⚡ Fun Facts
